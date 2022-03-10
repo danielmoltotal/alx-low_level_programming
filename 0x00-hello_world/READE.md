@@ -1,0 +1,2 @@
+Exercise 0: Write a script that runs a C file through the preprocessor and save the result into another file. The C file name will be saved in the var		  iable $CFILE. The output should be saved in the file c.
+Exercise 1: Write a script that compiles a C file but does not link. The C file name will be saved in the variable $CFILE. The output file should be n		  amed the same as the C file, but with the extension .o instead of .c. Example: if the C file is main.c, the output file should be main.o
