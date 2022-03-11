@@ -9,14 +9,14 @@
  */
 int main(void)
 {
-char i = z;
+	char c = 'z';
 
-while (i >= a)
-{
-putchar(i);
-i--;
-}
+	while (c >= 'a')
+	{
+		putchar(c);
+		c--;
+	}
 
-putchar(n);
-return (0);
+	putchar('\n');
+	return (0);
 }
