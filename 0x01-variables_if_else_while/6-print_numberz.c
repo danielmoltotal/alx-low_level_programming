@@ -7,14 +7,14 @@
  */
 int main(void)
 {
-int i = 0;
+	int c = 0;
 
-while (i < 10)
-{
-putchar(48 + i);
-i++;
-}
+	while (c < 10)
+	{
+		putchar(48 + c);
+		c++;
+	}
 
-putchar(n);
-return (0);
+	putchar('\n');
+	return (0);
 }
